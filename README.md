@@ -48,24 +48,7 @@
 You can deploy the app using:
 - Vercel(`vercel deploy`)
 - Netlify
-- GitHub Pages** (for static builds)
-
----
-
-## 📸 Screenshots
-_(Add relevant images here if available)_
-
----
-
-## 📌 Future Enhancements
-🔹 Add **leaderboard functionality** to track top scores.  
-🔹 Implement a **timer** for each question.  
-🔹 Add more **gamification elements** like achievements and badges.  
-
----
-
-## 🛠️ Contributing
-Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
+- GitHub Pages** (for static builds.
 
 ---
 
@@ -74,5 +57,5 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-### 🎉 Happy Coding! 🚀
+Good to go! 🚀
 
